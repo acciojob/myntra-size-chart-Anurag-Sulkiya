@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse: collapse;
+	border-spacing: 2px;
+	
+}
+tr th{
+border: 1px solid black;
+text-align:start;
+
+}
+tr td{
+	border: 1px solid black;
+}
+.col1{
+	text-align:start;
+}
+.size-num{
+	text-align:end;
+}
